@@ -1,0 +1,12 @@
+userinput = int(input("PLease enter the number"))
+
+if userinput % 2 == 0:
+    print(f'the number you have entered is even number -- {userinput}')
+else:
+    print(f'the number you have entered is not even number -- {userinput}')
+
+
+
+print ("Number from 1 to   " , userinput)
+for i in range(20,userinput + 1): #it will start from 20 then input number & it will add +1 in the end
+    print(i)
