@@ -1,1 +1,16 @@
+Ipv 4  -- 32 bit
+Ipv 6 --- 128 bit
+
+
+subnet --small breakup of network
+
+subnet mask 255.255.255.0
+subnet ID network portion & network ID 192.169.1.100/24
+
+
+
+
+
+
+
 
